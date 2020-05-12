@@ -1,3 +1,3 @@
 # first
-Triyng to be a developer
-Learning
+Learning and trying to be a developer
+
