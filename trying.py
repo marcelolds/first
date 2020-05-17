@@ -1,2 +1,0 @@
-print("tentando")
-hello
